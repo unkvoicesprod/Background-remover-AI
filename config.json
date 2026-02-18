@@ -1,0 +1,26 @@
+{
+    "app_name": "Soft BG Remover",
+    "version": "2.0",
+    "author": "SoftSafe",
+    "license": "Paid",
+    "description": "Ferramenta offline de remo\u00e7\u00e3o de fundo com IA e editor integrado.",
+    "website": "https://softsafecompany.github.io",
+    "credits": "Desenvolvido por Yknarcsak, Kascranky, Unkvoices, empresa SoftSafe.\nBaseado em U2NET e Rembg.\nProcessamento local e offline. \nCreditos para: franciscoarmandochicogil@gmail.com\n\nProgramadores por Francisco Armando Chico\nAno de lan\u00e7amento 2026\nDesenvolvida pela SoftSafe.Company",
+    "sidebar_width": 449,
+    "shortcuts": {
+        "auto_remove": "b",
+        "magic_erase": "m",
+        "eraser": "e",
+        "pencil": "p",
+        "pan": "h",
+        "rotate": "r",
+        "fullscreen": "f"
+    },
+    "keywords": [
+        "rembg",
+        "background-remover",
+        "ai",
+        "offline",
+        "editor"
+    ]
+}
